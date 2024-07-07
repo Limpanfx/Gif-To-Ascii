@@ -8,4 +8,4 @@ How to use:
 5. Run Runner.bat
 
 Extra information:
-Hands.gif is an example gif, feel free to delete it.
+Hands.gif is an example gif, feel free to delete it. Credits to: https://wifflegif.com/gifs/630787-black-and-white-hands-gif
