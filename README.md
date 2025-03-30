@@ -8,4 +8,4 @@ Made by https://guns.lol/Limpan or Limpan002s on discord.
 **5. Run Runner.bat.**
 
 # Extra information:
-*Hands.gif is an example gif, feel free to delete it. Credits to: https://wifflegif.com/gifs/630787-black-and-white-hands-gif*
+*Hands.gif is only there as an example gif, you can find the original at: https://wifflegif.com/gifs/630787-black-and-white-hands-gif*
